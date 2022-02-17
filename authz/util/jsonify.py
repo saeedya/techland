@@ -5,7 +5,7 @@ DEBUG_MESSAGE_CODE = {
 	"101": "Unsupported Media Type",
 	"102": "Database Error",
 	"103": "Resource Not Found",
-	"104": "Request Validatio Failed",
+	"104": "Request Validation Failed",
 	"105": "Empty Data Supplied",
 	"106":  "Resource Conflict",
 	"107": "Not Implemented",
